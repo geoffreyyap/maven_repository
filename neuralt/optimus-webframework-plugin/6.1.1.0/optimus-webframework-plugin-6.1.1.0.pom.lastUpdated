@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon May 18 00:07:35 MYT 2020
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1589731655031
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.neuralt\:optimus-webframework-plugin\:pom\:6.1.1.0 from/to central (https\://repo.maven.apache.org/maven2)\: Transfer failed for https\://repo.maven.apache.org/maven2/com/neuralt/optimus-webframework-plugin/6.1.1.0/optimus-webframework-plugin-6.1.1.0.pom

@@ -1,0 +1,12 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 15 15:38:40 MYT 2020
+/Users/geoffrey/SmartOne_Project/development/repositories/.error=Could not transfer artifact com.neuralt\:optimus-webframework-core\:jar\:sources\:6.1.1.0 from/to local-repository (/Users/geoffrey/SmartOne_Project/development/repositories)\: Cannot access /Users/geoffrey/SmartOne_Project/development/repositories with type default using the available connector factories\: AetherRepositoryConnectorFactory, BasicRepositoryConnectorFactory
+~/Users/geoffrey/SmartOne_Project/development/repositories/.error=Could not transfer artifact com.neuralt\:optimus-webframework-core\:jar\:sources\:6.1.1.0 from/to local-repository (~/Users/geoffrey/SmartOne_Project/development/repositories)\: Cannot access ~/Users/geoffrey/SmartOne_Project/development/repositories with type default using the available connector factories\: AetherRepositoryConnectorFactory, BasicRepositoryConnectorFactory
+@default-local-repository-~/Users/geoffrey/SmartOne_Project/.lastUpdated=1589526483538
+@default-local-repository-~/Users/geoffrey/SmartOne_Project/development/repositories/.lastUpdated=1589526520154
+https\://repo.maven.apache.org/maven2/.lastUpdated=1589522564121
+/Users/geoffrey/.m2/com/neuralt/.error=Could not transfer artifact com.neuralt\:optimus-webframework-core\:jar\:sources\:6.1.1.0 from/to local-repository (/Users/geoffrey/.m2/com/neuralt)\: Cannot access /Users/geoffrey/.m2/com/neuralt with type default using the available connector factories\: AetherRepositoryConnectorFactory, BasicRepositoryConnectorFactory
+https\://repo.maven.apache.org/maven2/.error=
+@default-local-repository-/Users/geoffrey/.m2/com/neuralt/.lastUpdated=1589528320892
+~/Users/geoffrey/SmartOne_Project/.error=Could not transfer artifact com.neuralt\:optimus-webframework-core\:jar\:sources\:6.1.1.0 from/to local-repository (~/Users/geoffrey/SmartOne_Project/)\: Cannot access ~/Users/geoffrey/SmartOne_Project/ with type default using the available connector factories\: AetherRepositoryConnectorFactory, BasicRepositoryConnectorFactory
+@default-local-repository-/Users/geoffrey/SmartOne_Project/development/repositories/.lastUpdated=1589526964251

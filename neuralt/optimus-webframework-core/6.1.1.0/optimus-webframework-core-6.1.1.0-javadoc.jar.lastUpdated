@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 15 15:38:40 MYT 2020
+@default-local-repository-~/Users/geoffrey/SmartOne_Project/development/repositories/.lastUpdated=1589526868874
+/Users/geoffrey/.m2/com/neuralt/.error=Could not transfer artifact com.neuralt\:optimus-webframework-core\:jar\:javadoc\:6.1.1.0 from/to local-repository (/Users/geoffrey/.m2/com/neuralt)\: Cannot access /Users/geoffrey/.m2/com/neuralt with type default using the available connector factories\: AetherRepositoryConnectorFactory, BasicRepositoryConnectorFactory
+~/Users/geoffrey/SmartOne_Project/development/repositories/.error=Could not transfer artifact com.neuralt\:optimus-webframework-core\:jar\:javadoc\:6.1.1.0 from/to local-repository (~/Users/geoffrey/SmartOne_Project/development/repositories)\: Cannot access ~/Users/geoffrey/SmartOne_Project/development/repositories with type default using the available connector factories\: AetherRepositoryConnectorFactory, BasicRepositoryConnectorFactory
+https\://repo.maven.apache.org/maven2/.lastUpdated=1589522686618
+/Users/geoffrey/SmartOne_Project/development/repositories/.error=Could not transfer artifact com.neuralt\:optimus-webframework-core\:jar\:javadoc\:6.1.1.0 from/to local-repository (/Users/geoffrey/SmartOne_Project/development/repositories)\: Cannot access /Users/geoffrey/SmartOne_Project/development/repositories with type default using the available connector factories\: AetherRepositoryConnectorFactory, BasicRepositoryConnectorFactory
+@default-local-repository-/Users/geoffrey/.m2/com/neuralt/.lastUpdated=1589528320905
+@default-local-repository-/Users/geoffrey/SmartOne_Project/development/repositories/.lastUpdated=1589526977401
+https\://repo.maven.apache.org/maven2/.error=
